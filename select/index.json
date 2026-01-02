@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "イモータルユー",
+  "base_artist": "LonePi",
+  "createdAt": "2026-01-02T16:41:47.492790Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イモータルユー",
+      "artist": "LonePi",
+      "has_synced": false,
+      "path": "select/01_イモータルユー_LonePi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イモータルユー",
+      "artist": "LonePi",
+      "has_synced": false,
+      "path": "select/pl_01_イモータルユー_LonePi.txt"
+    }
+  ]
+}
